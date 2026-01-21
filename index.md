@@ -1,5 +1,5 @@
 ---
-title: Homepage of Julius Ross
+title: Homepage of Faculty Member
 ---
 
 Welcome to my site.
